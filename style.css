@@ -1,0 +1,17 @@
+.container{
+    padding: 0;
+    margin: 50px auto;
+    width: 1170px;
+}
+.content {
+	display: flex;
+	border: 1px solid;
+	max-width: 300px;
+	justify-content: space-between;
+	padding: 8px;
+    margin-bottom: 15px;
+}
+
+.content input {
+	border: none;
+}
